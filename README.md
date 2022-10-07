@@ -1,6 +1,6 @@
 # Github Finder
 
-Searches Github.com user profiles and displays profile info and the latest repositories
+Busca el perfil de usuarios en Github.com y muestra sus ultimos repositorios subidos.
 
 ### Version
 1.0.0
